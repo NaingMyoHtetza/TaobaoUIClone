@@ -1,0 +1,1777 @@
+{
+    "collections": [
+    {
+        "title": [
+            {
+               "head": "百亿补贴 · 买贵必赔" 
+            },
+
+            {
+                "head": "聚划算" 
+             },
+
+             {
+                "head": "买贵必赔" 
+             }
+        ],
+
+        "products": [ 
+        {
+            "image": "/public/images/image1.jpg",
+            "name": "探索你的冬日"
+        },
+        {
+            "image": "/public/images/image2.png",
+            "name": "淘宝企业购"
+        },
+        {
+            "image": "/public/images/image3.avif",
+            "price": "¥4990",
+            "name": "已补2500元"
+        },
+        {
+            "image": "/public/images/image4.avif",
+            "price": "¥999",
+            "name": "全网低价"
+        },
+        {
+            "image": "/public/images/image5.avif",
+            "price": "¥3527",
+            "name": "已售2万+"
+        },
+        {
+            "image": "/public/images/image6.avif",
+            "price": "¥318",
+            "name": "已补270元"
+        },
+        {
+            "image": "/public/images/image7.avif",
+            "price": "¥4990",
+            "name": "已补2500元"
+        },
+        {
+            "image": "/public/images/image8.avif",
+            "price": "¥999",
+            "name": "全网低价"
+        },
+        {
+            "image": "/public/images/image9.avif",
+            "price": "¥3527",
+            "name": "已售2万+"
+        },
+        {
+            "image": "/public/images/image10.avif",
+            "price": "¥318",
+            "name": "已补270元"
+        }
+    ]
+
+    }
+    ],
+
+    "collections1": [
+        {
+            "categories": [
+                {
+                    "image": "/public/images/products/p1.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p2.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p3.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p4.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p5.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p6.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p7.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p8.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p9.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p10.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p11.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p12.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p13.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p14.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p15.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p16.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p17.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p18.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p19.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p20.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p21.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p22.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p23.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p24.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p25.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p26.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p27.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p28.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p29.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p30.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p31.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p32.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p33.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p34.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p35.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p36.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p37.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p38.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p39.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p40.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p41.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p42.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p43.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p44.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p45.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p46.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p47.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                },
+                {
+                    "image": "/public/images/products/p48.webp",
+                    "name": "携程任我行电子卡50官方卡 携程电子卡50官方卡 自动发货秒发货",
+                    "price": "¥318"
+                }
+            ]
+        }
+    ],
+
+    "products": [
+        {
+            "foods": [
+
+                    {
+                      "image": "/public/images/food/f1.jpg",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "肯德基",
+                      "name2": "| 黄金炸鸡桶",
+                      "name3": "限时抢购",
+                      "name4": "已售25万",
+                      "price": "¥299/5次",
+                      "type": "food"
+                    },
+                    {
+                      "image": "/public/images/food/f2.png",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "星巴克",
+                      "name2": "| 法式香草拿铁",
+                      "name3": "新品上市",
+                      "name4": "已售8万",
+                      "price": "¥68/次",
+                      "type": "food"
+                    },
+                    {
+                      "image": "/public/images/food/f3.jpg",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "麦当劳",
+                      "name2": "| 全家桶",
+                      "name3": "热销推荐",
+                      "name4": "已售50万",
+                      "price": "¥199/次",
+                      "type": "food"
+                    },
+                    {
+                      "image": "/public/images/food/f4.jpg",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "汉堡王",
+                      "name2": "| 双层芝士堡",
+                      "name3": "劲爆优惠",
+                      "name4": "已售18万",
+                      "price": "¥128/2次",
+                      "type": "food"
+                    },
+                    {
+                      "image": "/public/images/food/f5.jpg",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "必胜客",
+                      "name2": "| 双拼披萨",
+                      "name3": "买一赠一",
+                      "name4": "已售15万",
+                      "price": "¥299/3次",
+                      "type": "food"
+                    },
+                    {
+                      "image": "/public/images/food/f6.jpg",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "小肥羊",
+                      "name2": "| 火锅套餐",
+                      "name3": "全网热销",
+                      "name4": "已售5万",
+                      "price": "¥189/次",
+                      "type": "food"
+                    },
+                    {
+                      "image": "/public/images/food/f7.jpg",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "天天快餐",
+                      "name2": "| 蛋炒饭套餐",
+                      "name3": "超值优惠",
+                      "name4": "已售100万",
+                      "price": "¥49/次",
+                      "type": "food"
+                    },
+                    {
+                      "image": "/public/images/food/f8.jpg",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "五味堂",
+                      "name2": "| 宫保鸡丁套餐",
+                      "name3": "限量发售",
+                      "name4": "已售12万",
+                      "price": "¥88/2次",
+                      "type": "food"
+                    },
+                    {
+                      "image": "/public/images/food/f9.jpg",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "味多美",
+                      "name2": "| 精选面包组合",
+                      "name3": "热销中",
+                      "name4": "已售20万",
+                      "price": "¥69/次",
+                      "type": "food"
+                    },
+                    {
+                      "image": "/public/images/food/f10.jpg",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "海底捞",
+                      "name2": "| 招牌火锅套餐",
+                      "name3": "爆款推荐",
+                      "name4": "已售8万",
+                      "price": "¥399/次",
+                      "type": "food"
+                    },
+                    {
+                      "image": "/public/images/food/f11.jpg",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "赵记",
+                      "name2": "| 老北京炸酱面",
+                      "name3": "不可错过",
+                      "name4": "已售50万",
+                      "price": "¥58/次",
+                      "type": "food"
+                    },
+                    {
+                      "image": "/public/images/food/f12.jpg",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "小龙坎",
+                      "name2": "| 麻辣火锅套餐",
+                      "name3": "疯狂折扣",
+                      "name4": "已售30万",
+                      "price": "¥250/次",
+                      "type": "food"
+                    },
+                    {
+                      "image": "/public/images/food/f13.png",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "吉野家",
+                      "name2": "| 牛肉盖饭",
+                      "name3": "单品促销",
+                      "name4": "已售100万",
+                      "price": "¥45/次",
+                      "type": "food"
+                    },
+                    {
+                      "image": "/public/images/food/f14.png",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "德克士",
+                      "name2": "| 香辣鸡腿堡",
+                      "name3": "新用户特惠",
+                      "name4": "已售10万",
+                      "price": "¥56/次",
+                      "type": "food"
+                    },
+                    {
+                      "image": "/public/images/food/f15.png",
+                      "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                      "name1": "老妈兔头",
+                      "name2": "| 干锅兔",
+                      "name3": "重磅上线",
+                      "name4": "已售2万",
+                      "price": "¥198/次",
+                      "type": "food"
+                    },
+                    {
+                        "image": "/public/images/food/f16.jpg",
+                        "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                        "name1": "老妈兔头",
+                        "name2": "| 干锅兔",
+                        "name3": "重磅上线",
+                        "name4": "已售2万",
+                        "price": "¥198/次",
+                        "type": "food"
+                      },
+                      {
+                        "image": "/public/images/food/f17.jpg",
+                        "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                        "name1": "肯德基",
+                        "name2": "| 黄金炸鸡桶",
+                        "name3": "限时抢购",
+                        "name4": "已售25万",
+                        "price": "¥299/5次",
+                        "type": "food"
+                      },
+                      {
+                        "image": "/public/images/food/f18.jpg",
+                        "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                        "name1": "星巴克",
+                        "name2": "| 法式香草拿铁",
+                        "name3": "新品上市",
+                        "name4": "已售8万",
+                        "price": "¥68/次",
+                        "type": "food"
+                      },
+                      {
+                        "image": "/public/images/food/f19.jpg",
+                        "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                        "name1": "麦当劳",
+                        "name2": "| 全家桶",
+                        "name3": "热销推荐",
+                        "name4": "已售50万",
+                        "price": "¥199/次",
+                        "type": "food"
+                      },
+                      {
+                        "image": "/public/images/food/f20.jpg",
+                        "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                        "name1": "汉堡王",
+                        "name2": "| 双层芝士堡",
+                        "name3": "劲爆优惠",
+                        "name4": "已售18万",
+                        "price": "¥128/2次",
+                        "type": "food"
+                      },
+                      {
+                        "image": "/public/images/food/f21.jpg",
+                        "icon1": "src/components/icons/producticon1.png",
+                      "icon2": "src/components/icons/producticon2.avif",
+                      "icon3": "src/components/icons/producticon3.png",
+                        "name1": "必胜客",
+                        "name2": "| 双拼披萨",
+                        "name3": "买一赠一",
+                        "name4": "已售15万",
+                        "price": "¥299/3次",
+                        "type": "food"
+                      },
+                      {
+                        "image": "/public/images/food/f22.jpg",
+                        "icon1": "src/components/icons/producticon1.png",
+                        "icon2": "src/components/icons/producticon2.avif",
+                        "icon3": "src/components/icons/producticon3.png",
+                        "name1": "小肥羊",
+                        "name2": "| 火锅套餐",
+                        "name3": "全网热销",
+                        "name4": "已售5万",
+                        "price": "¥189/次",
+                        "type": "food"
+                      },
+                      {
+                        "image": "/public/images/food/f23.jpg",
+                        "icon1": "src/components/icons/producticon1.png",
+                        "icon2": "src/components/icons/producticon2.avif",
+                        "icon3": "src/components/icons/producticon3.png",
+                        "name1": "天天快餐",
+                        "name2": "| 蛋炒饭套餐",
+                        "name3": "超值优惠",
+                        "name4": "已售100万",
+                        "price": "¥49/次",
+                        "type": "food"
+                      },
+                      {
+                        "image": "/public/images/food/f24.jpg",
+                        "icon1": "src/components/icons/producticon1.png",
+                        "icon2": "src/components/icons/producticon2.avif",
+                        "icon3": "src/components/icons/producticon3.png",
+                        "name1": "五味堂",
+                        "name2": "| 宫保鸡丁套餐",
+                        "name3": "限量发售",
+                        "name4": "已售12万",
+                        "price": "¥88/2次",
+                        "type": "food"
+                      }
+                  ],
+
+            "kitchen": [
+                {
+                    "image": "/public/images/kitchen/k1.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k2.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k3.png",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k4.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k5.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k6.png",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k7.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k8.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k9.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k10.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k11.png",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k12.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k13.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k14.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k15.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k16.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k17.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k18.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k19.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k20.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k21.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k22.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k23.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  },
+                  {
+                    "image": "/public/images/kitchen/k24.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "kitchen"
+                  }
+            ],
+
+            "menproducts": [
+                {
+                    "image": "/public/images/all/product1.png",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product2.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product3.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product4.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product5.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product6.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product7.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product8.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product9.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product10.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product11.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product12.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product13.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product14.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product15.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product16.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product17.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product18.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product19.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product20.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product21.png",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product22.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product23.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  },
+                  {
+                    "image": "/public/images/all/product24.jpg",
+                    "icon1": "src/components/icons/producticon1.png",
+                    "icon2": "src/components/icons/producticon2.avif",
+                    "icon3": "src/components/icons/producticon3.png",
+                    "name1": "肯德基",
+                    "name2": "| 黄金炸鸡桶",
+                    "name3": "限时抢购",
+                    "name4": "已售25万",
+                    "price": "¥299/5次",
+                    "type": "menproduct"
+                  }
+            ],
+
+            "game": [
+              {
+                "image": "/public/images/products/p1.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p2.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p3.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p4.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p5.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p6.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p7.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p8.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p9.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p10.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p11.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p12.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p13.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p14.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p15.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p16.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p17.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p18.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p19.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p20.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p21.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p22.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p23.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p24.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p25.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p26.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p27.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p28.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p29.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p30.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p31.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p32.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p33.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p34.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p35.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p36.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p37.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p38.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p39.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p40.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p41.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p42.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p43.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p44.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p45.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p46.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p47.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              },
+              {
+                "image": "/public/images/products/p48.webp",
+                "icon1": "src/components/icons/producticon1.png",
+                "icon2": "src/components/icons/producticon2.avif",
+                "icon3": "src/components/icons/producticon3.png",
+                "name1": "肯德基",
+                "name2": "| 黄金炸鸡桶",
+                "name3": "限时抢购",
+                "name4": "已售25万",
+                "price": "¥299/5次",
+                "type": "game"
+              }
+            ]
+                  
+        }
+    ]
+}
+
